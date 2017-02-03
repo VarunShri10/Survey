@@ -1,0 +1,18 @@
+3
+multi
+first
+3
+Multi Select
+first
+2
+Service Quality
+good
+2
+Service Quality
+Third Fedback
+2
+Service Quality/ Communication/ Delivery Process
+Fourth Feedback
+4
+Delivery Process
+Fifth Fedback
